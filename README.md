@@ -25,10 +25,10 @@ A fluffy, latte-colored longhaired dachshund asset pack for Codex desktop, with 
 
 Codex 데스크톱의 **custom pet v2**를 지원하는 버전이 필요합니다.
 
-1. [Releases](https://github.com/juicos61-arch/latte-dachshund/releases)에 배포된 ZIP이 있으면 내려받아 압축을 풀거나, 저장소를 복제합니다.
+1. [Releases](https://github.com/207studio-founder/latte-dachshund/releases)에 배포된 ZIP이 있으면 내려받아 압축을 풀거나, 저장소를 복제합니다.
 
    ```sh
-   git clone https://github.com/juicos61-arch/latte-dachshund.git
+   git clone https://github.com/207studio-founder/latte-dachshund.git
    cd latte-dachshund
    ```
 
